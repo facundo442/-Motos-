@@ -1,0 +1,369 @@
+[
+  {
+    "pines": 3,
+    "ficha": "Molex",
+    "modelos": []
+  },
+
+  {
+    "pines": 3,
+    "ficha": "JST",
+    "modelos": []
+  },
+
+  {
+    "pines": 3,
+    "ficha": "AMP",
+    "modelos": [
+      "Bajaj Boxer 125 (versiones utilitarias stock con 3 pines básicos)"
+    ]
+  },
+
+  {
+    "pines": 4,
+    "ficha": "Molex",
+    "modelos": [
+      "Corven Energy 110",
+      "Corven Energy 110 Full",
+      "Corven Mirage 110",
+      "Zanella Due 110 ST",
+      "Zanella ZB 110 ST",
+      "Zanella ZB 110 F",
+      "Gilera Smash 110",
+      "Gilera Smash 110 Full CBS",
+      "Motomel Blitz 110 V8",
+      "Motomel Blitz 110 Full",
+      "Motomel CG 110",
+      "Keeway RK 110",
+      "Keeway Superlight 110"
+    ]
+  },
+
+  {
+    "pines": 4,
+    "ficha": "JST",
+    "modelos": [
+      "Honda Wave 110i (versiones stock básicas)",
+      "Honda Wave 110i Deluxe",
+      "Yamaha Crypton 110",
+      "Yamaha T110 Crypton",
+      "Suzuki AX 100 (110)"
+    ]
+  },
+
+  {
+    "pines": 4,
+    "ficha": "AMP",
+    "modelos": [
+      "Bajaj Platina 110",
+      "Bajaj CT 110",
+      "TVS Sport 110",
+      "TVS Radeon 110",
+      "Hero Splendor 110",
+      "Hero Passion Pro 110"
+    ]
+  },
+
+  {
+    "pines": 4,
+    "ficha": "Kripton",
+    "modelos": [
+      "Yamaha Crypton 110 (versiones stock con conector Crypton-style)"
+    ]
+  },
+
+  {
+    "pines": 5,
+    "ficha": "Molex",
+    "modelos": [
+      "Corven Mirage 125",
+      "Corven Triax 125",
+      "Zanella Due 125 Sport",
+      "Zanella ZB 125 Sport",
+      "Zanella ZR 125",
+      "Motomel Skua 125",
+      "Motomel Strato 125",
+      "Motomel DLX 125 Deluxe"
+    ]
+  },
+
+  {
+    "pines": 5,
+    "ficha": "JST",
+    "modelos": [
+      "Honda Biz 125",
+      "Honda CG 125 Fan",
+      "Honda Wave 125i",
+      "Suzuki Gixxer 125",
+      "Suzuki Access 125 (scooter)",
+      "Suzuki Burgman 125 (scooter)",
+      "Yamaha YBR 125 ED",
+      "Yamaha YBR 125Z",
+      "Yamaha Neo 125 (scooter)"
+    ]
+  },
+
+  {
+    "pines": 5,
+    "ficha": "AMP",
+    "modelos": [
+      "Bajaj Rouser LS 125",
+      "Bajaj Discover 125 ST",
+      "Bajaj Platina 125",
+      "TVS Raider 125",
+      "TVS NTorq 125 (scooter)",
+      "Hero Glamour 125",
+      "Hero Destini 125 (scooter)"
+    ]
+  },
+
+  {
+    "pines": 6,
+    "ficha": "Molex",
+    "modelos": [
+      "Corven Triax 150",
+      "Corven Triax 150 R3",
+      "Corven Hunter 150",
+      "Corven Triax 200 R3",
+      "Corven Hunter 200",
+      "Corven Triax 250 R3",
+      "Corven Triax 250 Adventure",
+      "Zanella Patagonian Eagle 150",
+      "Zanella ZR 150",
+      "Zanella S2 150",
+      "Zanella Zapucai 200",
+      "Zanella Roe 250",
+      "Gilera VC 125",
+      "Gilera Smash 125",
+      "Gilera SMX 150",
+      "Gilera VC 150",
+      "Gilera SMX 200",
+      "Gilera SMX 250",
+      "Motomel Skua 150",
+      "Motomel Skua 150 V6",
+      "Motomel HLX 150",
+      "Motomel HLX 200",
+      "Motomel Skua 200",
+      "Motomel Blade 250",
+      "Keeway Cafe Racer 152",
+      "Keeway Versilia 150 (scooter)",
+      "Keeway RK 150",
+      "Keeway RK V 200",
+      "Keeway Superlight 200",
+      "Keeway RKR 250",
+      "Keeway K-Light 250V"
+    ]
+  },
+
+  {
+    "pines": 6,
+    "ficha": "JST",
+    "modelos": [
+      "Honda XR 150L",
+      "Honda XR 150L Adventure",
+      "Honda CB 150 Twister",
+      "Honda CB 190R",
+      "Honda Tornado 250",
+      "Honda XR 250 Tornado",
+      "Yamaha XTZ 150",
+      "Yamaha Fazer 150",
+      "Yamaha Fazer 150 S",
+      "Yamaha TW 200",
+      "Yamaha Tenere 250",
+      "Yamaha XT 250",
+      "Suzuki Address 110 (scooter)",
+      "Suzuki Raider R 150",
+      "Suzuki Gixxer 155",
+      "Suzuki DR 200S",
+      "Suzuki V-Strom 250",
+      "Suzuki TU 250X",
+      "Honda Wave 110i (versiones stock con 6 pines)"
+    ]
+  },
+
+  {
+    "pines": 6,
+    "ficha": "AMP",
+    "modelos": [
+      "Bajaj Pulsar 150",
+      "Bajaj Rouser 150 NS",
+      "Bajaj CT 150",
+      "Bajaj Pulsar NS 200",
+      "Bajaj Avenger 200",
+      "Bajaj Dominar 250",
+      "Bajaj Pulsar N 250",
+      "TVS Apache RTR 160",
+      "TVS HLX 150",
+      "TVS Apache RTR 200 4V",
+      "TVS Ronin 225",
+      "Hero Xtreme 160R",
+      "Hero Ignitor 125",
+      "Hero Xpulse 200 4V",
+      "Hero Xpulse 200 4V Pro",
+      "Hero Xtreme 250R"
+    ]
+  },
+
+  {
+    "pines": 7,
+    "ficha": "Molex",
+    "modelos": []
+  },
+
+  {
+    "pines": 7,
+    "ficha": "JST",
+    "modelos": []
+  },
+
+  {
+    "pines": 7,
+    "ficha": "AMP",
+    "modelos": []
+  },
+
+  {
+    "pines": 8,
+    "ficha": "Molex",
+    "modelos": [
+      "Beta Mini RR 110",
+      "Beta RR 125",
+      "Beta RR 200",
+      "Beta Alp 200",
+      "Beta RR 250",
+      "Beta Xtrainer 250",
+      "Beta RX 250"
+    ]
+  },
+
+  {
+    "pines": 8,
+    "ficha": "JST",
+    "modelos": []
+  },
+
+  {
+    "pines": 8,
+    "ficha": "AMP",
+    "modelos": [
+      "Bajaj Boxer 125",
+      "Keeway RKF 125 ABS",
+      "Keeway TX 125",
+      "Keeway Superlight 110 (versiones stock)"
+    ]
+  },
+
+  {
+    "pines": 9,
+    "ficha": "Molex",
+    "modelos": []
+  },
+
+  {
+    "pines": 9,
+    "ficha": "JST",
+    "modelos": []
+  },
+
+  {
+    "pines": 9,
+    "ficha": "AMP",
+    "modelos": []
+  },
+
+  {
+    "pines": 10,
+    "ficha": "Molex",
+    "modelos": []
+  },
+
+  {
+    "pines": 10,
+    "ficha": "JST",
+    "modelos": []
+  },
+
+  {
+    "pines": 10,
+    "ficha": "AMP",
+    "modelos": []
+  },
+
+  {
+    "pines": 11,
+    "ficha": "Molex",
+    "modelos": []
+  },
+
+  {
+    "pines": 11,
+    "ficha": "JST",
+    "modelos": []
+  },
+
+  {
+    "pines": 11,
+    "ficha": "AMP",
+    "modelos": []
+  },
+
+  {
+    "pines": 12,
+    "ficha": "Molex",
+    "modelos": []
+  },
+
+  {
+    "pines": 12,
+    "ficha": "JST",
+    "modelos": []
+  },
+
+  {
+    "pines": 12,
+    "ficha": "AMP",
+    "modelos": []
+  },
+
+  {
+    "pines": "programable",
+    "ficha": "Molex",
+    "modelos": [
+      "Corven Triax 250 Adventure (modificación aftermarket)",
+      "Zanella Roe 250 (modificación aftermarket)",
+      "Gilera SMX 250 (modificación aftermarket)",
+      "Motomel Blade 250 (modificación aftermarket)",
+      "Keeway RKR 250 (modificación aftermarket)",
+      "Corven Energy 110 (programable Pietcard aftermarket)",
+      "Zanella ZB 110 (programable universal aftermarket)",
+      "Gilera Smash 110 (programable 4 pines aftermarket)"
+    ]
+  },
+
+  {
+    "pines": "programable",
+    "ficha": "JST",
+    "modelos": [
+      "Honda Tornado 250 (modificación aftermarket)",
+      "Yamaha Tenere 250 (modificación aftermarket)",
+      "Suzuki V-Strom 250 (modificación aftermarket)",
+      "Honda CG 125 Fan (programable 12v aftermarket)",
+      "Yamaha YBR 125 ED (programable universal aftermarket)",
+      "Honda Wave 110i (programable Pietcard aftermarket)"
+    ]
+  },
+
+  {
+    "pines": "programable",
+    "ficha": "AMP",
+    "modelos": [
+      "Bajaj Dominar 250 (modificación racing)",
+      "Bajaj Pulsar N 250 (modificación aftermarket)",
+      "TVS Ronin 225 (modificación racing)",
+      "Hero Xtreme 250R (modificación aftermarket)",
+      "Beta RR 250 (modificación enduro racing)",
+      "Bajaj Rouser LS 125 (programable aftermarket)",
+      "Hero Glamour 125 (programable aftermarket)"
+    ]
+  }
+]
